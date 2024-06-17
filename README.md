@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/josealmir10" target="blank"><img src="https://img.shields.io/twitter/follow/josealmir10?logo=twitter&style=for-the-badge" alt="josealmir10" /></a> </p>
 
-- 🔭 I’m currently working on [Strada](www.carguero.plataforma.com.br)
+- 🔭 I’m currently working on [Mazzatech](https://www.mazza.tech/)
 
 - 🌱 I’m currently learning **Mobile, APM**
 
